@@ -1,4 +1,13 @@
 #   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Candice
+A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
+Skills include:
+Data Collection and Consolidation
+Data Assessment and Cleaning
+Data Modelling
+Data Analysis and Visualization
+Report Writing and Insights Communication
+📝 I write blogs on my projects and Data Analytics on Medium
+📫 Reach me via email at ayersamuel210@gmail.com or via:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
