@@ -20,19 +20,13 @@
 
 ### :woman_technologist: About Me :
 
-A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
+- :telescope:A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
 - :Skills include:</p>
 - :Data Collection and Consolidation</p>
-Data Assessment and Cleaning</p>
-Data Modelling</p>
-Data Analysis and Visualization</p>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :Data Assessment and Cleaning</p>
+- :Data Modelling</p>
+- :Data Analysis and Visualization</p>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WuCandice-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/wu-candice/))
 
 </div>
 ---
