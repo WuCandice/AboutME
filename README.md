@@ -1,10 +1,4 @@
 #   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Candice
-A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
-Skills include:</p>
-Data Collection and Consolidation</p>
-Data Assessment and Cleaning</p>
-Data Modelling</p>
-Data Analysis and Visualization</p>
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/wu-candice/">
@@ -26,7 +20,12 @@ Data Analysis and Visualization</p>
 
 ### :woman_technologist: About Me :
 
-I am a Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
+- :Skills include:</p>
+- :Data Collection and Consolidation</p>
+Data Assessment and Cleaning</p>
+Data Modelling</p>
+Data Analysis and Visualization</p>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
