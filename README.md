@@ -4,7 +4,7 @@
 ### :woman_technologist: About Me :
 A data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data</p>
 Skills include:</p>
-- Data Research & Mining
+- Data Research & Mining</p>
 - Data Collection and Consolidation</p>
 - Data Preprocessing and Cleaning</p>
 - Data Modelling</p>
