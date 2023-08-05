@@ -1,5 +1,5 @@
 #   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Candice
----
+
 
 ### :woman_technologist: About Me :
 A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
