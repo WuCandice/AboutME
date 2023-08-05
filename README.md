@@ -2,7 +2,7 @@
 
 
 ### :woman_technologist: About Me :
-A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
+A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data</p>
 Skills include:</p>
 - Data Collection and Consolidation</p>
 - Data Assessment and Cleaning</p>
