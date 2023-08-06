@@ -1,7 +1,7 @@
 #   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Candice
 
 
-### :👩🏻‍💻: About Me :
+### 👩🏻‍💻 About Me :
 A data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data</p>
 Skills include:</p>
 - Data Research & Mining</p>
