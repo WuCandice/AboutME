@@ -2,7 +2,7 @@
 
 
 ### 👩🏻‍💻 About Me :
-A data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leveraging SQL, MS Excel, Power BI, Tableau, R, and Python to extract actionable insights from data</p>
+A data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> leveraging **SQL**, **MS Excel**, **Power BI**, **Tableau**, **R**, and **Python** to extract actionable insights from data</p>
 Skills include:</p>
 - **Programming Languages**: Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL( Window, CTE, Join), R</p>
 - **Machine Learning**: Classification, Regression, Clustering, FA, RF, PAC</p>
