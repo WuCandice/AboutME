@@ -11,12 +11,9 @@ Skills include:</p>
 - :mailbox: How to reach me:  <a href="https://www.linkedin.com/in/wu-candice/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-</div>
 
 
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
